@@ -1,4 +1,4 @@
-[Screenshot 2025-03-28 134439](https://github.com/user-attachments/assets/7fe958a1-02f3-42ad-a483-93592e27e2fd)
+![Screenshot 2025-03-28 134439](https://github.com/user-attachments/assets/7fe958a1-02f3-42ad-a483-93592e27e2fd)
 # Welcome to ObsidiMath! 
 ## About ObsidiMath:
 ObsidiMath is a free and open source plugin meant for obsidian note takers to be able to do basic math calculations on their pages using a calculator, protractor and a ruler. 

@@ -1,0 +1,8 @@
+{
+    "id": "ObsidiMath",
+    "name": "ObsidiMath",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "author": "Corvettefan101 and Gemini 2.0 Flash",
+    "description": "Adds Math Tools to Obsidian"
+}
